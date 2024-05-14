@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+nav ul.a{
+    list-style-type: none;
+    flex: auto;
+
+}
+nav ul{
+    display: flex;
+}
